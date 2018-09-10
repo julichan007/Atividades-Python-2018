@@ -1,0 +1,3 @@
+s = "universidade"
+
+ok= False
